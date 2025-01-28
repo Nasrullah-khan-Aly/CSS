@@ -1,0 +1,30 @@
+/* p,h1{
+    color: purple;background-color: white;
+}
+div{
+    background-color: rgba(17, 255, 0,0.8)
+
+    background-color: hsl(hue, saturation, lightness);
+   
+
+}
+*{
+    background-color: black;color: white;
+    text-decoration: none;
+}
+h1,h2,h3{
+    background-color: purple;color: orange;
+}
+
+.abc{
+    background-color: aqua;color: yellow;
+}
+#ab{
+    background-color: blue;color: yellow;
+} */
+ /* ul>li{
+    background-color: aqua;color: blue;
+ } */
+  p~a {
+background-color: aliceblue;color: red;
+}
