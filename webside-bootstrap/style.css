@@ -1,0 +1,18 @@
+.navbar{
+background-color: blue;
+}
+
+a,img{
+    /* background-color: royalblue; */
+    color: white;
+    text-decoration: none;
+}
+#but{
+flex-direction: row !important;
+justify-items: center !important;
+}
+ #para{
+flex-direction: row ;
+background-color: aqua;
+    flex-direction:  column;
+}
